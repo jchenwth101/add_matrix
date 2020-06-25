@@ -22,11 +22,11 @@ def matrix_add(x,y) -> [[]]:
 
 
 # BASIC TESTING
-#if __name__ == "__main__":
+if __name__ == "__main__":
     # example 1
- #   m1 = [[1, 2, 3], [2, 3, 4]]
-  #  m2 = [[5, 6, 7], [8, 9, 10]]
-   # m3 = [[1, 2], [3, 4], [5, 6]]
+    m1 = [[1, 2, 3], [2, 3, 4]]
+    m2 = [[5, 6, 7], [8, 9, 10]]
+    m3 = [[1, 2], [3, 4], [5, 6]]
 
     #print(matrix_add(m1, m2))
     #print(matrix_add(m1, m3))
